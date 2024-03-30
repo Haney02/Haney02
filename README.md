@@ -10,3 +10,4 @@ this is my first script so let me know if you encounter any problems
 4.) Save file then restart server 
 
 ### if your intersted in joining my server join the discord linbed below
+https://discord.gg/TUhRNWRA6U
